@@ -1,1 +1,1 @@
-# TicTacToe game using Python3
+# TicTacToe Game using Python3
